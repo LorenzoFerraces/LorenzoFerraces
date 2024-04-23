@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hola, soy Lolo</h1>
 
-<!--
-**LorenzoFerraces/LorenzoFerraces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Stats:</h3>
+<br>
+<p align="center">&nbsp;<img align="center" src=https://github-readme-stats.vercel.app/api?username=LorenzoFerraces&theme=tokyonight&show_icons=true&hide_border=false&count_private=true /></p>
+<br>
 
-Here are some ideas to get you started:
+<h1 align="left">Activity</h3><br>
+<p align="center">&nbsp;<img align="center" src=https://github-readme-streak-stats.herokuapp.com/?user=LorenzoFerraces&theme=tokyonight&hide_border=false /></p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="left">Used Languages</h3><br>
+<p align="center">&nbsp;<img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoFerraces&theme=tokyonight&show_icons=true&hide_border=false&layout=compact
+ /></p>
+<br>
+
